@@ -2,6 +2,9 @@
 Morales Franco, Pomier Ignacio
 
 A)
+
+Calculos realizados en los .ipynb
+
 colcon build
 
 source install/setup.bash
