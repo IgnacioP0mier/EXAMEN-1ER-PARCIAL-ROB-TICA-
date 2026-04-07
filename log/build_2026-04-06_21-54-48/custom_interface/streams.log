@@ -1,0 +1,253 @@
+[0.010s] Invoking command in '/home/franco/Desktop/Robotica/Parcial/build/custom_interface': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/franco/Desktop/Robotica/Parcial/build/custom_interface -- -j16 -l16
+[0.028s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.047s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.106s] -- Found geometry_msgs: 5.3.6 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[0.127s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.134s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.143s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.154s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.189s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[0.195s] -- Found rosidl_adapter: 4.6.7 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[0.421s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[0.629s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.707s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.709s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[0.893s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[0.918s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.923s] -- Added test 'lint_cmake' to check CMake code style
+[0.924s] -- Added test 'xmllint' to check XML markup files
+[0.925s] -- Configuring done (0.9s)
+[0.954s] -- Generating done (0.0s)
+[0.962s] -- Build files have been written to: /home/franco/Desktop/Robotica/Parcial/build/custom_interface
+[0.986s] [  1%] Built target custom_interface__rosidl_generator_type_description
+[0.991s] [  1%] Built target ament_cmake_python_copy_custom_interface
+[0.998s] [  3%] Built target custom_interface__cpp
+[1.002s] [ 25%] Built target custom_interface__rosidl_generator_c
+[1.018s] [ 43%] Built target custom_interface__rosidl_typesupport_introspection_c
+[1.018s] [ 43%] Built target custom_interface__rosidl_typesupport_c
+[1.019s] [ 56%] Built target custom_interface__rosidl_typesupport_introspection_cpp
+[1.019s] [ 62%] Built target custom_interface__rosidl_typesupport_cpp
+[1.019s] [ 73%] Built target custom_interface__rosidl_typesupport_fastrtps_cpp
+[1.019s] [ 81%] Built target custom_interface__rosidl_typesupport_fastrtps_c
+[1.032s] [ 81%] Built target custom_interface
+[1.045s] [ 82%] Built target custom_interface__py
+[1.062s] [ 90%] Built target custom_interface__rosidl_generator_py
+[1.076s] [100%] Built target custom_interface_s__rosidl_typesupport_introspection_c
+[1.076s] [100%] Built target custom_interface_s__rosidl_typesupport_c
+[1.076s] [100%] Built target custom_interface_s__rosidl_typesupport_fastrtps_c
+[1.167s] running egg_info
+[1.186s] writing custom_interface.egg-info/PKG-INFO
+[1.186s] writing dependency_links to custom_interface.egg-info/dependency_links.txt
+[1.186s] writing top-level names to custom_interface.egg-info/top_level.txt
+[1.239s] reading manifest file 'custom_interface.egg-info/SOURCES.txt'
+[1.239s] writing manifest file 'custom_interface.egg-info/SOURCES.txt'
+[1.258s] [100%] Built target ament_cmake_python_build_custom_interface_egg
+[1.265s] Invoked command in '/home/franco/Desktop/Robotica/Parcial/build/custom_interface' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/franco/Desktop/Robotica/Parcial/build/custom_interface -- -j16 -l16
+[1.266s] Invoking command in '/home/franco/Desktop/Robotica/Parcial/build/custom_interface': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/franco/Desktop/Robotica/Parcial/build/custom_interface
+[1.271s] -- Install configuration: ""
+[1.271s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/ament_index/resource_index/rosidl_interfaces/custom_interface
+[1.271s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/msg/Num.json
+[1.271s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/msg/Sphere.json
+[1.271s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/srv/AddThreeInts.json
+[1.271s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/srv/GetPosition.json
+[1.271s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface
+[1.271s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__functions.c
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__functions.c
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__type_support.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__type_support.c
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__functions.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__struct.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__description.c
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__functions.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__struct.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__type_support.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__type_support.c
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__description.c
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/num.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/rosidl_generator_c__visibility_control.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/sphere.h
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail
+[1.272s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__description.c
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__description.c
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__type_support.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__struct.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__functions.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__type_support.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__struct.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__type_support.c
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__functions.c
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__functions.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__type_support.c
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__functions.c
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/add_three_ints.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/get_position.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/environment/library_path.sh
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/environment/library_path.dsv
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/libcustom_interface__rosidl_generator_c.so
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__rosidl_typesupport_fastrtps_c.h
+[1.273s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__rosidl_typesupport_fastrtps_c.h
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__rosidl_typesupport_fastrtps_c.h
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_c.h
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/libcustom_interface__rosidl_typesupport_fastrtps_c.so
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__struct.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__type_support.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__type_support.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__builder.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__struct.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__traits.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__traits.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__builder.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/sphere.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.274s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/num.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/add_three_ints.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__builder.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__struct.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__type_support.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__builder.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__type_support.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__traits.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__traits.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__struct.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/get_position.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/dds_fastrtps
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__rosidl_typesupport_fastrtps_cpp.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__rosidl_typesupport_fastrtps_cpp.hpp
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/dds_fastrtps
+[1.275s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__rosidl_typesupport_fastrtps_cpp.hpp
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/libcustom_interface__rosidl_typesupport_fastrtps_cpp.so
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__rosidl_typesupport_introspection_c.h
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__rosidl_typesupport_introspection_c.h
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__type_support.c
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__type_support.c
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__rosidl_typesupport_introspection_c.h
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__type_support.c
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__type_support.c
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__rosidl_typesupport_introspection_c.h
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/libcustom_interface__rosidl_typesupport_introspection_c.so
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/libcustom_interface__rosidl_typesupport_c.so
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__rosidl_typesupport_introspection_cpp.hpp
+[1.276s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__rosidl_typesupport_introspection_cpp.hpp
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/sphere__type_support.cpp
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/msg/detail/num__type_support.cpp
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__rosidl_typesupport_introspection_cpp.hpp
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__rosidl_typesupport_introspection_cpp.hpp
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/get_position__type_support.cpp
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/include/custom_interface/custom_interface/srv/detail/add_three_ints__type_support.cpp
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/libcustom_interface__rosidl_typesupport_introspection_cpp.so
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/libcustom_interface__rosidl_typesupport_cpp.so
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/environment/pythonpath.sh
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/environment/pythonpath.dsv
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface-0.0.0-py3.12.egg-info
+[1.277s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface-0.0.0-py3.12.egg-info/dependency_links.txt
+[1.277s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface-0.0.0-py3.12.egg-info/PKG-INFO
+[1.277s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface-0.0.0-py3.12.egg-info/top_level.txt
+[1.277s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface-0.0.0-py3.12.egg-info/SOURCES.txt
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/custom_interface_s__rosidl_typesupport_fastrtps_c.so
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/msg
+[1.277s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/msg/_num.py
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/msg/_num_s.c
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/msg/_sphere.py
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/msg/_sphere_s.c
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/msg/__init__.py
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/_custom_interface_s.ep.rosidl_typesupport_introspection_c.c
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/_custom_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/_custom_interface_s.ep.rosidl_typesupport_c.c
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/custom_interface_s__rosidl_typesupport_c.so
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/custom_interface_s__rosidl_typesupport_introspection_c.so
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/srv
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/srv/_get_position_s.c
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/srv/_add_three_ints_s.c
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/srv/_get_position.py
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/srv/_add_three_ints.py
+[1.278s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/srv/__init__.py
+[1.278s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/__init__.py
+[1.300s] Listing '/home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface'...
+[1.300s] Compiling '/home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/__init__.py'...
+[1.300s] Listing '/home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/msg'...
+[1.300s] Listing '/home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/srv'...
+[1.304s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/custom_interface_s__rosidl_typesupport_fastrtps_c.so
+[1.304s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/custom_interface_s__rosidl_typesupport_introspection_c.so
+[1.304s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/python3.12/site-packages/custom_interface/custom_interface_s__rosidl_typesupport_c.so
+[1.304s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/lib/libcustom_interface__rosidl_generator_py.so
+[1.304s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/msg/Num.idl
+[1.304s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/msg/Sphere.idl
+[1.304s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/srv/AddThreeInts.idl
+[1.304s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/srv/GetPosition.idl
+[1.304s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/msg/Num.msg
+[1.304s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/msg/Sphere.msg
+[1.304s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/srv/AddThreeInts.srv
+[1.304s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/srv/GetPosition.srv
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/ament_index/resource_index/package_run_dependencies/custom_interface
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/ament_index/resource_index/parent_prefix_path/custom_interface
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/environment/ament_prefix_path.sh
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/environment/ament_prefix_path.dsv
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/environment/path.sh
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/environment/path.dsv
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/local_setup.bash
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/local_setup.sh
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/local_setup.zsh
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/local_setup.dsv
+[1.305s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/package.dsv
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/ament_index/resource_index/packages/custom_interface
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_generator_cExport.cmake
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_generator_cExport-noconfig.cmake
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_generator_cppExport.cmake
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.305s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interface__rosidl_typesupport_introspection_cExport.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interface__rosidl_typesupport_cExport.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interface__rosidl_typesupport_cExport-noconfig.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interface__rosidl_typesupport_introspection_cppExport.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interface__rosidl_typesupport_cppExport.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_generator_pyExport.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/export_custom_interface__rosidl_generator_pyExport-noconfig.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/rosidl_cmake-extras.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/ament_cmake_export_targets-extras.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interfaceConfig.cmake
+[1.306s] -- Up-to-date: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/cmake/custom_interfaceConfig-version.cmake
+[1.307s] -- Installing: /home/franco/Desktop/Robotica/Parcial/install/custom_interface/share/custom_interface/package.xml
+[1.308s] Invoked command in '/home/franco/Desktop/Robotica/Parcial/build/custom_interface' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/franco/Desktop/Robotica/Parcial/build/custom_interface

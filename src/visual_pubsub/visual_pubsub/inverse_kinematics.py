@@ -24,15 +24,13 @@ class InverseKinematics(Node):
         self.l3 = 1.5
 
         # Estado inicial
-        self.q = np.array([-0.22, 0.7, 0.03], dtype=float)   # [q1, q2, q3]
+        self.q = np.array([-0.22, 0.7, 0.03], dtype=float)   
         self.target_pos = np.array([1.2, 0.5, 4.0], dtype=float)
 
         # Parámetros IK
         self.step_size = 0.05
         self.tolerance = 0.01
         self.damping_factor = 0.1
-
-        # El timer SIEMPRE al final, cuando todo ya existe
         self.timer = self.create_timer(0.1, self.update_joints)
 
     def forward_kinematics(self, q):
@@ -83,7 +81,6 @@ class InverseKinematics(Node):
         if error_norm > self.tolerance:
             J = self.jacobian(self.q)
 
-            # Damped Least Squares
             JtJ = J.T @ J
             damping = (self.damping_factor ** 2) * np.eye(3)
             dq = np.linalg.solve(JtJ + damping, J.T @ error)

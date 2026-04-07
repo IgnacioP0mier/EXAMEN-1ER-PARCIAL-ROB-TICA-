@@ -1,0 +1,61 @@
+running develop
+Removing /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual-pubsub.egg-link (link to .)
+running egg_info
+writing ../../build/visual_pubsub/visual_pubsub.egg-info/PKG-INFO
+writing dependency_links to ../../build/visual_pubsub/visual_pubsub.egg-info/dependency_links.txt
+writing entry points to ../../build/visual_pubsub/visual_pubsub.egg-info/entry_points.txt
+writing requirements to ../../build/visual_pubsub/visual_pubsub.egg-info/requires.txt
+writing top-level names to ../../build/visual_pubsub/visual_pubsub.egg-info/top_level.txt
+reading manifest file '../../build/visual_pubsub/visual_pubsub.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/visual_pubsub/visual_pubsub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build
+creating /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib
+creating /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/pub_joints.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/inverse_kinematicas_bio.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/fk_server_a.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/fk_client_b.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/inverse_kinematics.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/fk_server_b.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/sub_joints.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/__init__.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+copying visual_pubsub/fk_client_a.py -> /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub
+running install
+running install_lib
+creating /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/pub_joints.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/inverse_kinematicas_bio.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/fk_server_a.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/fk_client_b.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/inverse_kinematics.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/fk_server_b.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/sub_joints.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/__init__.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+copying /home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/build/lib/visual_pubsub/fk_client_a.py -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/pub_joints.py to pub_joints.cpython-312.pyc
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/inverse_kinematicas_bio.py to inverse_kinematicas_bio.cpython-312.pyc
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/fk_server_a.py to fk_server_a.cpython-312.pyc
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/fk_client_b.py to fk_client_b.cpython-312.pyc
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/inverse_kinematics.py to inverse_kinematics.cpython-312.pyc
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/fk_server_b.py to fk_server_b.cpython-312.pyc
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/sub_joints.py to sub_joints.cpython-312.pyc
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub/fk_client_a.py to fk_client_a.cpython-312.pyc
+running install_data
+copying resource/visual_pubsub -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/share/ament_index/resource_index/packages
+copying package.xml -> /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/share/visual_pubsub
+running install_egg_info
+Copying ../../build/visual_pubsub/visual_pubsub.egg-info to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/python3.12/site-packages/visual_pubsub-0.0.0-py3.12.egg-info
+running install_scripts
+Installing fk_client_a script to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/visual_pubsub
+Installing fk_client_b script to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/visual_pubsub
+Installing fk_server_a script to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/visual_pubsub
+Installing fk_server_b script to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/visual_pubsub
+Installing inverse_kinematics script to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/visual_pubsub
+Installing inverse_kinematics_bio script to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/visual_pubsub
+Installing pub_joints script to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/visual_pubsub
+Installing sub_joints script to /home/franco/Desktop/Robotica/Parcial/install/visual_pubsub/lib/visual_pubsub
+writing list of installed files to '/home/franco/Desktop/Robotica/Parcial/build/visual_pubsub/install.log'
