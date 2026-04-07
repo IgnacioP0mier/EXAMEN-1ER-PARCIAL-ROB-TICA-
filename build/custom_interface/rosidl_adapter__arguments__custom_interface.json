@@ -1,9 +1,0 @@
-{
-  "package_name": "custom_interface",
-  "non_idl_tuples": [
-    "/home/franco/Desktop/Robotica/Parcial/src/custom_interface:msg/Num.msg",
-    "/home/franco/Desktop/Robotica/Parcial/src/custom_interface:msg/Sphere.msg",
-    "/home/franco/Desktop/Robotica/Parcial/src/custom_interface:srv/AddThreeInts.srv",
-    "/home/franco/Desktop/Robotica/Parcial/src/custom_interface:srv/GetPosition.srv"
-  ]
-}

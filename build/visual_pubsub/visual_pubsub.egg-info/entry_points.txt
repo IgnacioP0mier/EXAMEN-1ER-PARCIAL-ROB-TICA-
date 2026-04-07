@@ -1,9 +1,0 @@
-[console_scripts]
-fk_client_a = visual_pubsub.fk_client_a:main
-fk_client_b = visual_pubsub.fk_client_b:main
-fk_server_a = visual_pubsub.fk_server_a:main
-fk_server_b = visual_pubsub.fk_server_b:main
-inverse_kinematics = visual_pubsub.inverse_kinematics:main
-inverse_kinematics_bio = visual_pubsub.inverse_kinematicas_bio:main
-pub_joints = visual_pubsub.pub_joints:main
-sub_joints = visual_pubsub.sub_joints:main

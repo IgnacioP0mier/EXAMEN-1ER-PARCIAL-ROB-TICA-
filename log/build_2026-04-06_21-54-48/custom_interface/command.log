@@ -1,4 +1,0 @@
-Invoking command in '/home/franco/Desktop/Robotica/Parcial/build/custom_interface': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/franco/Desktop/Robotica/Parcial/build/custom_interface -- -j16 -l16
-Invoked command in '/home/franco/Desktop/Robotica/Parcial/build/custom_interface' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/franco/Desktop/Robotica/Parcial/build/custom_interface -- -j16 -l16
-Invoking command in '/home/franco/Desktop/Robotica/Parcial/build/custom_interface': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/franco/Desktop/Robotica/Parcial/build/custom_interface
-Invoked command in '/home/franco/Desktop/Robotica/Parcial/build/custom_interface' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/franco/Desktop/Robotica/Parcial/build/custom_interface
