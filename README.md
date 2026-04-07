@@ -10,6 +10,7 @@ ros2 launch robot_description bioinspirado.launch.py
 ros2 topic pub /target_position geometry_msgs/msg/Point "{x: 1.2, y: 0.5, z: 4.0}" -1
 
 ros2 run visual_pubsub inverse_kinematics
+
 -------------------------
 Extra:
 
