@@ -33,14 +33,54 @@ ros2 run visual_pubsub fk_client_a
 
 robot Bioinspirado:
 
-install/setup.bash
+source install/setup.bash
 
 ros2 run visual_pubsub fk_server_b
 
-install/setup.bash
+source install/setup.bash
 
 ros2 run visual_pubsub fk_client_b
 
 ----------------------------
 
 B)
+
+ros2 launch mypkg sensor.launch.py
+
+VENTANA 1 
+colcon build
+
+source install/setup.bash
+
+ros2 run mypkg node_1
+
+VENTANA 2
+colcon build
+
+source install/setup.bash
+
+ros2 run mypkg node_2
+
+VENTANA 3
+colcon build
+
+source install/setup.bash
+
+ros2 run mypkg node_3
+
+VENTANA 4
+colcon build
+
+source install/setup.bash
+
+ros2 run mypkg node_4
+
+VENTANA 5
+colcon build
+
+source install/setup.bash
+
+ros2 run mypkg node_5
+
+VENTANA de graficador
+rqt_graph

@@ -30,6 +30,12 @@ setup(
             'fk_client_a = visual_pubsub.fk_client_a:main',
             'fk_client_b = visual_pubsub.fk_client_b:main',
 
+            'node_1 = mypkg.node_1:main',
+            'node_2 = mypkg.node_2:main',
+            'node_3 = mypkg.node_3:main',
+            'node_4 = mypkg.node_4:main',
+            'node_5 = mypkg.node_5:main',
+
         ],
     },
 )

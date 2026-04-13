@@ -8,20 +8,16 @@ class MyAggregator(Node):
     def __init__(self):
         super().__init__('node_4')
              
-        # --- SUSCRIPTORES (Reciben Float32) ---
         self.sub1 = self.create_subscription(Float32, '/SENS1', self.cb_sensor1, 10)
         self.sub2 = self.create_subscription(Float32, '/SENS2', self.cb_sensor2, 10)
         self.sub3 = self.create_subscription(Float32, '/SENS3', self.cb_sensor3, 10)
 
-        # --- PUBLICADOR (Envía DescriptionMsg) ---
         self.publisher_ = self.create_publisher(DescriptionMsg, '/filtered_sensor', 10)
 
-        # Variables para guardar los datos
         self.val1 = 0.0
         self.val2 = 0.0
         self.val3 = 0.0
 
-        # --- TIMER ---
         timer_period = 0.5  
         self.timer = self.create_timer(timer_period, self.timer_callback)
 
